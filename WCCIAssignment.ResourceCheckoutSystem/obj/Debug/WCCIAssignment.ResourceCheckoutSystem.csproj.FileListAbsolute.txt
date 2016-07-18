@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\bin\Debug\WCCIAssignment.ResourceCheckoutSystem.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\obj\Debug\WCCIAssignment.ResourceCheckoutSystem.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\bin\Debug\WCCIAssignment.ResourceCheckoutSystem.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\bin\Debug\WCCIAssignment.ResourceCheckoutSystem.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\obj\Debug\WCCIAssignment.ResourceCheckoutSystem.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\WCCIAssignment.ResourceCheckoutSystem\WCCIAssignment.ResourceCheckoutSystem\obj\Debug\WCCIAssignment.ResourceCheckoutSystem.pdb
